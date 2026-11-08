@@ -1,0 +1,10 @@
+[general]
+import = ["~/.config/alacritty/themes/noctalia.toml"]
+
+[window]
+# 窗口装饰，在 Niri 这类平铺合成器中，通常建议设为 "None"[reference:5]
+decorations = "None"
+
+# 背景透明度：0.0 (完全透明) 到 1.0 (完全不透明)[reference:6]
+opacity = 0.8
+

@@ -1,0 +1,9 @@
+[theme.templates]
+enable_builtin_templates = true
+builtin_ids = ["alacritty", "niri", "gtk3", "gtk4", "qt", "kcolorscheme"]
+
+[theme]
+# 将来源设置为社区
+source = "community"
+# 填写你想要的社区调色板名称
+community_palette = "zed" 
