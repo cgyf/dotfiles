@@ -49,10 +49,10 @@ wallpaper_scheme = "m3-content"
 # 壁纸目录
 directory = "~/.dotfiles/wallpaper" 
 [wallpaper.default]
-path = "/home/cgfy/图片/wallhaven-mlokw9_1920x1200.png"
+path = "~/.dotfiles/wallpaper/wallhaven-e8r7wk_1920x1200.png"
 
 [wallpaper.last]
-path = "/home/cgfy/图片/wallhaven-mlokw9_1920x1200.png"
+path = "~/.dotfiles/wallpaper/wallhaven-e8r7wk_1920x1200.png"
 
 [wallpaper.monitors.eDP-1]
-path = "/home/cgfy/图片/wallhaven-mlokw9_1920x1200.png"
+path = "~/.dotfiles/wallpaper/wallhaven-e8r7wk_1920x1200.png"
