@@ -1,2 +1,5 @@
-usage guide
-if you wont to other wallpaper,please add it to ~/.dotfils/wallpaper and switch it on noctalia
+
+# usage guide
+
+if you wont to add other wallpaper,please add it to
+`~/.dotfils/wallpaper` folder and use it on noctalia.
