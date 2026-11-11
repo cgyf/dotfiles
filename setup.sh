@@ -1,20 +1,22 @@
 #!/usr/bin/env bash
 set -euo pipefail
-pkgs=(
+de_pkgs=(
   niri
   noctalia
   fuzzel
   alacritty
-  #commont software
-  fastfetch
-  tree
-  neovim
-  fzf
+)
 
+cli_pkgs=(
+  fzf
+  tree
+  fastfetch
+  neovim
 )
 
 #parameter package name
 pkg_install() {
   sudo dnf install -y "$@"
 }
-pkg_install "${pkgs[@]}"
+pkg_install "${de_pkgs[@]}"
+pkg_install "${cli_pkgs[@]}"
